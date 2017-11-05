@@ -14,8 +14,8 @@ C++](http://cs.stanford.edu/people/eroberts/StanfordCPPLib/).
 
 ### Stanford Portable Library
 
-  $ cd cpplib
-  $ make
+    $ cd cpplib
+    $ make
 
 ### Homework assignments
 
